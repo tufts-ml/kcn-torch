@@ -1,0 +1,9 @@
+.*.swp
+.*.swo
+*.out
+*.err
+*.npz
+*.slurm
+__pycache__
+.ipynb_checkpoints/
+

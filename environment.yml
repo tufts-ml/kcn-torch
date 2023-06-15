@@ -1,0 +1,8 @@
+name: kcn_env 
+
+dependencies:
+  - python=3.10
+  - numpy
+  - pytorch::pytorch=2.0
+  - pyg::pyg
+  - conda-forge::scikit-learn
