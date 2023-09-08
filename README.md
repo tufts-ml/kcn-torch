@@ -1,6 +1,6 @@
 # A PyTorch Implementation of Kriging Convolutional Networks 
 
-**Weirui Zhao<sup>1</sup>, Ruiqi Xu<sup>1</sup>, and Li-Ping Liu<sup>1</sup>**
+**Wenrui Zhao<sup>1</sup>, Ruiqi Xu<sup>1</sup>, and Li-Ping Liu<sup>1</sup>**
 
 1 Department of Computer Science, Tufts University
 
